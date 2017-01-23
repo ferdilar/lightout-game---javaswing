@@ -1,0 +1,6 @@
+//compile
+javac *.java
+//eksekusi
+java Main
+
+//klik new game untuk mengaktifkan dan memulai setiap permainan.
